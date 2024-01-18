@@ -3,7 +3,7 @@
 Hello, I'm <b>Harikrishna Dev</b>. My passions lie in <b>Machine Learning, focusing on Reinforcement Learning, Image Classification, and Large Language Models</b>. Additionally, I enjoy playing Badminton 🏓, reading books 📚  and listening to Rock music.
 
 ## Highlights
-👨‍🎓 Currently, I'm an MS student in Business Analytics (Deep Learning Specialisation) at The University of Texas at Dallas. Completed **B. Tech.** in **Information Technology** from **Delhi Technological University**
+👨‍🎓 Currently, I'm an MS student in Business Analytics (Deep Learning Specialisation) at The University of Texas at Dallas. Completed **B. Tech.** in **Mechanical Engineering** from **National Institute of Technology Karnataka**
 
 
 **Stats**
