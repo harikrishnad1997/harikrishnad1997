@@ -45,6 +45,14 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
+<!-- visiros count -->
+<p align="center">
+  Visitor count
+  <br/>
+  <img src="https://profile-counter.glitch.me/harikrishnad1997/count.svg" />
+</p>
+
+
 **Stats**
 
 ![Hari's github stats](https://github-readme-stats.vercel.app/api?username=harikrishnad1997&show_icons=true&theme=dark)
