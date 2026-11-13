@@ -1,10 +1,10 @@
 # Welcome 👋
 
-Hello, I'm <b>Harikrishna Dev</b> — a Business Analytics professional based in the Chicago area. My passions lie in <b>Machine Learning, focusing on Reinforcement Learning, Image Classification, and Large Language Models</b>. Additionally, I enjoy playing Badminton 🏓, reading books 📚  and listening to Rock music.
+Hello, I'm <b>Harikrishna Dev</b> — <b>Senior Analytics Consultant at Tiger Analytics</b>, based in the Greater Chicago Area. A passionate Data Scientist with 4+ years of experience across Retail, Media and Finance. My passions lie in <b>Machine Learning, focusing on Reinforcement Learning, Image Classification, and Large Language Models</b>. Additionally, I enjoy playing Badminton 🏓, reading books 📚  and listening to Rock music.
 
 ## Highlights
 
-🏢 **Current Pursuit:** Business Analytics professional, with a **Master of Sciences in Business Analytics** with a focus on Deep Learning from **The University of Texas at Dallas** (Dec 2023). Find me on LinkedIn: [linkedin.com/in/hdev1997](https://www.linkedin.com/in/hdev1997/). 
+🏢 **Current Role:** **Senior Analytics Consultant at Tiger Analytics** (Mar 2026 — Present, Greater Chicago Area), previously Analytics Consultant there (May 2025 — Mar 2026). Find me on LinkedIn: [linkedin.com/in/hdev1997](https://www.linkedin.com/in/hdev1997/). 
 
 🌐 **Global Experience:** I have contributed to impactful projects in the United States and India, bringing a diverse perspective to problem-solving and leveraging global insights.
 
@@ -24,6 +24,16 @@ Hello, I'm <b>Harikrishna Dev</b> — a Business Analytics professional based in
 
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+
+## Experience
+
+- **Tiger Analytics** — Senior Analytics Consultant, Mar 2026 — Present; Analytics Consultant, May 2025 — Mar 2026 (Greater Chicago Area)
+- **Daifuku** — Application System Analyst, Sep 2024 — May 2025 (Novi, MI); IT Analyst Intern, May — Aug 2023
+- **Flipkart** — Business Analyst, Customer Experience, Jul 2021 — Jul 2022 (Bengaluru, India)
+- **Tredence** — Senior Business Analyst, Feb — Jul 2021; Business Analyst, Jun 2019 — Feb 2021 (Bengaluru, India)
+- **UT Dallas, Naveen Jindal School of Management** — Graduate Teaching Assistant, Aug 2023 — May 2024
+
+Education: **MS, Business Analytics, UT Dallas** (Aug 2022 — May 2024) · **BTech, Mechanical Engineering, NIT Karnataka** (2015 — 2019)
 
 ## Recent Projects
 
