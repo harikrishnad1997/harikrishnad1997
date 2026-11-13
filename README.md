@@ -1,10 +1,10 @@
 # Welcome 👋
 
-Hello, I'm <b>Harikrishna Dev</b>. My passions lie in <b>Machine Learning, focusing on Reinforcement Learning, Image Classification, and Large Language Models</b>. Additionally, I enjoy playing Badminton 🏓, reading books 📚  and listening to Rock music.
+Hello, I'm <b>Harikrishna Dev</b> — a Business Analytics professional based in the Chicago area. My passions lie in <b>Machine Learning, focusing on Reinforcement Learning, Image Classification, and Large Language Models</b>. Additionally, I enjoy playing Badminton 🏓, reading books 📚  and listening to Rock music.
 
 ## Highlights
 
-🏢 **Current Pursuit:** I am currently pursuing a **Master of Sciences in Business Analytics** with a focus on Deep Learning at **The University of Texas at Dallas**, showcasing my commitment to advancing my expertise in the field. 
+🏢 **Current Pursuit:** Business Analytics professional, with a **Master of Sciences in Business Analytics** with a focus on Deep Learning from **The University of Texas at Dallas** (Dec 2023). Find me on LinkedIn: [linkedin.com/in/hdev1997](https://www.linkedin.com/in/hdev1997/). 
 
 🌐 **Global Experience:** I have contributed to impactful projects in the United States and India, bringing a diverse perspective to problem-solving and leveraging global insights.
 
@@ -16,14 +16,43 @@ Hello, I'm <b>Harikrishna Dev</b>. My passions lie in <b>Machine Learning, focus
 
 🤖 **Technical Proficiency:** Proficient in various technical skills, including R, Hadoop, Tableau, PyTorch, SQL, Excel, and more. Certified in Python Data Structures and completed training in real-world Hadoop applications and IBM's Data Science Methodology.
 
-🎓 **Educational Background:** Holds a Bachelor's degree in **Mechanical Engineering** from the **National Institute of Technology Karnataka**, showcasing a strong foundation in engineering principles alongside the current pursuit of advanced analytics studies.
+🎓 **Educational Background:** Holds a Bachelor's degree in **Mechanical Engineering** from the **National Institute of Technology Karnataka**, and a Master's in **Business Analytics** from **The University of Texas at Dallas**.
 
 🎾🎹 **Extracurricular Passions:** Beyond the professional realm, I am an enthusiast of Badminton 🏓 and a music lover, finding solace in playing the Piano 🎹 and exploring various musical instruments.
 
-🌐 **Open to Opportunities:** Currently located in Dallas, TX, and open to relocation for compelling career opportunities that align with my passion for machine learning and data science.
+🌐 **Open to Opportunities:** Based in the Chicago area, and open to compelling career opportunities that align with my passion for machine learning and data science.
 
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+
+## Recent Projects
+
+What I have been building most recently. Public projects link to their repos; private projects are teased below — no link, just a look at what is coming.
+
+### [YouTube Scraper Map](https://github.com/harikrishnad1997/YouTube-Scarpper-Map)
+An interactive map and bot to navigate FoodLoversTV YouTube reviews, with a GraphRAG AI Food Concierge that answers questions with verified restaurant facts, dishes, prices, locations, and YouTube review links. Tools: Python, Streamlit, Knowledge Graph, Google Gemini.
+
+### [Passport Stamp Maker](https://github.com/harikrishnad1997/regional_stamp_generator)
+A web app that creates high-resolution, full-colour custom photo passport stamps for National Park Service sites and personal travel journals — photo upload with zoom and shift controls, and EXIF geolocation with automatic park matching. Tools: HTML, JavaScript.
+
+### [GenAI Demo](https://github.com/harikrishnad1997/genAI_demo)
+A demonstration project showcasing what large language models can do — LLM basics, tooling and prompting, and a RAG demo, with Colab notebooks for each example. Tools: Python, Jupyter Notebook, LLMs, RAG.
+
+### [Hari's Image Generation App](https://github.com/harikrishnad1997/FLUX-1-Finetuning)
+A Streamlit app that generates AI images featuring Hari in a specified scene. Gemini modifies the prompt to place Hari in the scene, and a custom Replicate FLUX-1 model fine-tuned on Hari generates the image. Tools: Python, Streamlit, Gemini, Replicate, FLUX-1.
+
+### [HariGPT](https://github.com/harikrishnad1997/HariGPT)
+A chatbot that answers questions about my professional and educational background, powered by large language models with my resume as context, and conversation history stored in Firebase. Tools: Python, Streamlit, LLMs, Firebase.
+
+### Private projects — a teaser
+These are in private repos, so there is no public link yet — just a peek at what is in progress.
+
+- **RouteLandmarkExplorer** — AI-powered iOS route planner and landmark discovery app (Swift / SwiftUI, 22,434 landmarks). Private.
+- **Dispute Court** (courtroom-drama) — an AI courtroom drama, built with FastAPI and LangGraph. Private.
+- **Birthday Quiz App** — a birthday quiz app, built with Rork (TypeScript). Private.
+- **Notion Editor** — a Notion-style editor. Private — more to come.
+- **Deep Research App** — a deep-research app. Private — more to come.
+- **HariGPT Deep Research** — deep research, built on HariGPT. Private — more to come.
 
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
@@ -61,7 +90,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 ---
 
 <a href="mailto:harikrish0607@gmail.com"  target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/harikrishnad1997/"  target="_blank" rel="noopener noreferrer"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/hdev1997/"  target="_blank" rel="noopener noreferrer"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--<a href="https://github.com/harikrishnad1997"  target="_blank" rel="noopener noreferrer" class="icon brands fa-github"><span class="label">GitHub</span></a>
 <a href="https://drive.google.com/file/d/1zPr0Hix0VkL0-tsJ1ahdz2r6FDmcDr7F/view?usp=sharing"  target="_blank" rel="noopener noreferrer" class="far fa-file"><span class="label"></span></a>
 <!--
